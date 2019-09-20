@@ -20,10 +20,6 @@ function add(a, b) {
 	return a + b;
 }
 
-// consume(2, 2, function(add) {
-// 	console.log(add);
-// });
-
 function multiply(a, b) {
 	return a * b;
 }
